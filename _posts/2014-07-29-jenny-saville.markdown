@@ -31,7 +31,7 @@ header-img: "img/articles/saville/post-bg.jpg"
 
 <figure>
   <a href="{{site.url}}/img/articles/saville/odalisque.jpg" rel="shadowbox" title="Jenny Saville: Odalisque, 2012 – 2014. Oil and charcoal on canvas.">
-  <img src="{{site.url}}/images/2014/07/saville/odalisque-teaser.jpg"></a>
+  <img src="{{site.url}}/img/articles/saville/odalisque-teaser.jpg"></a>
   <figcaption>
     Jenny Saville: <br />
     Odalisque, 2012 – 2014. <br />
