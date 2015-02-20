@@ -4,7 +4,7 @@ title:      "Jenny Saville at the Gagosian Britannia"
 subtitle:   "An encounter with the painter's work"
 date:       2014-07-29 12:00:00
 author:     "Rhys Edwards"
-header-img: "img/post-bg-05.jpg"
+header-img: "img/articles/saville/post-bg.jpg"
 ---
 
 <p>A common criticism of painting, and of figurative painting in particular, is that it is all too instantaneous. Narratives necessarily require the passage of time, or at least, the semblance of it; hence, film, theatre, and literature all work via the compounding of experience, to the point of emotional culmination. When a painter attempts to invoke that same passage of time, however, their effort seems – to the contemporary eye – puerile. Photography evades this criticism in that it is instantaneous by nature, and does not aspire to be otherwise; even the narrative inclinations of the Vancouver School are always bracketed within reference to the history of painting, and in that sense, are latter day paintings themselves.</p>
@@ -17,7 +17,7 @@ header-img: "img/post-bg-05.jpg"
 
 <figure>
   <a href="http://upload.wikimedia.org/wikipedia/commons/0/0d/Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg" rel="shadowbox" title="Jenny Saville: Odalisque, 2012 – 2014. Oil and charcoal on canvas.">
-  <img src="{{site.url}}/images/2014/07/saville/manet-teaser.jpg"></a>
+  <img src="{{site.url}}/img/articles/saville/manet-teaser.jpg"></a>
   <figcaption>
     Edouard Manet: <br />
     Un bar aux Folies Bergère <br />
@@ -30,7 +30,7 @@ header-img: "img/post-bg-05.jpg"
 <p>It is the paradoxical nature of the composition which prevents the instantaneity of the painting. Rather than baulking at the monstrosity of the human form, as in the work of Willem de Kooning (to whom much of Oxyrhynchus owes itself in its messiness), Saville treats it with a degree of tenderness. Yet she is uncomfortable with allowing it to abide; rather, one experiences the form via a passage of indistinct visual gestures, variously realized in lurid oil and brash charcoal meanderings, which concatenate into an imperfect whole. The sense in which this passage of gestures must be experienced as a passage of time is compounded by the size of the painting – one must physically walk along it to appreciate it in its entirety.</p>
 
 <figure>
-  <a href="{{site.url}}/images/2014/07/saville/odalisque.jpg" rel="shadowbox" title="Jenny Saville: Odalisque, 2012 – 2014. Oil and charcoal on canvas.">
+  <a href="{{site.url}}/img/articles/saville/odalisque.jpg" rel="shadowbox" title="Jenny Saville: Odalisque, 2012 – 2014. Oil and charcoal on canvas.">
   <img src="{{site.url}}/images/2014/07/saville/odalisque-teaser.jpg"></a>
   <figcaption>
     Jenny Saville: <br />
