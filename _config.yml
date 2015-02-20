@@ -1,12 +1,12 @@
 # Site settings
-title: Clean Blog
+title: The Shifting
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "We shift around Vancouver."
 baseurl: "http://test.adriandiaz.ca"
 url: "http://test.adriandiaz.ca"
-twitter_username: SBootstrap
-github_username:  davidtmiller
+twitter_username: adgr72
+github_username:  adriandgr
 facebook_username:  IronSummitMedia
 
 # Build settings
